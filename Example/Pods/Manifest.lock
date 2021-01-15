@@ -1,0 +1,16 @@
+PODS:
+  - ModuleAnalyzer (1.0.0)
+
+DEPENDENCIES:
+  - ModuleAnalyzer (from `../`)
+
+EXTERNAL SOURCES:
+  ModuleAnalyzer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModuleAnalyzer: b252b4e8b64e4e6d1117b31ce3b1141126a06b0f
+
+PODFILE CHECKSUM: ce43dfcebb62c38079ee101d28a6873df33d464a
+
+COCOAPODS: 1.10.1

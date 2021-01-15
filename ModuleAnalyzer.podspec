@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ModuleAnalyzer'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ModuleAnalyzer.'
+  s.version          = '1.0.0'
+  s.summary          = 'Analisador de boi e cavalo.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/areias_2@hotmail.com/ModuleAnalyzer'
+  s.homepage         = 'https://github.com/areias_2@hotmail.com/MLModuleAnimals'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'areias_2@hotmail.com' => 'areias_2@hotmail.com' }
-  s.source           = { :git => 'https://github.com/areias_2@hotmail.com/ModuleAnalyzer.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Phillippi/MLModuleAnimals.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '14.2'
 
   s.source_files = 'ModuleAnalyzer/Classes/**/*'
   

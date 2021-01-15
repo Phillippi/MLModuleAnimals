@@ -1,0 +1,6 @@
+framework module ModuleAnalyzer {
+  umbrella header "ModuleAnalyzer-umbrella.h"
+
+  export *
+  module * { export * }
+}
